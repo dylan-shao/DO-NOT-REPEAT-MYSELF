@@ -1,4 +1,4 @@
-# Do not repeat yourself
+# Do not repeat myself
 
 Summarize things I do repeatly, to make myself DRY. 
 
