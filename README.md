@@ -1,6 +1,6 @@
 # Do not repeat yourself
 
-Summarize all the repeat things I do regularly, and make myself DRY. 
+Summarize things I do repeatly, to make myself DRY. 
 
 1. [A crawler to crawl USCIS info and send SMS notification](https://github.com/dylan-shao/serverless-lambda-crawler-uscis)
 
