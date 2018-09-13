@@ -1,6 +1,6 @@
 # Do not repeat yourself
 
-This will be a place o summarize all the repeat things I do regularly, and try to make them automatically. 
+Summarize all the repeat things I do regularly, and make myself DRY. 
 
 1. [A crawler to crawl USCIS info and send SMS notification](https://github.com/dylan-shao/serverless-lambda-crawler-uscis)
 
