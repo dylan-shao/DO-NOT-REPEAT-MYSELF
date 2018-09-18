@@ -1,6 +1,6 @@
 # Do not repeat myself
 
-Summarize things I do repeatly, to make myself DRY. 
+Make myself `DRY` by **automating boring stuff**. 
 
 1. [A crawler to crawl USCIS info and send SMS notification (**Serverless, Lambda**)](https://github.com/dylan-shao/serverless-lambda-crawler-uscis)
 
