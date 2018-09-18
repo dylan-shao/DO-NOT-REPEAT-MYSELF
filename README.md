@@ -6,6 +6,8 @@ Summarize things I do repeatly, to make myself DRY.
 
 2. [Automatically create a README.md after you save your Jupyter notebook](https://github.com/dylan-shao/jupyter2README.md-auto-create-hook)
 
-3. I am eating 3 meals a day :robot:
+3. [Automatically create README.md with talbes and links when you commit](https://github.com/dylan-shao/Algorithms/blob/master/index.js)
+
+4. I am eating 3 meals a day :robot:
 
 More coming....
