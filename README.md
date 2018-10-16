@@ -6,7 +6,7 @@ Make myself `DRY` by **automating boring stuff**.
 
 2. [Automatically create a README.md after you save your Jupyter notebook (**jupyter config**)](https://github.com/dylan-shao/jupyter2README.md-auto-create-hook)
 
-3. [Automatically create README.md tables when you commit (**node fs module**)](https://github.com/dylan-shao/Algorithms/blob/master/index.js)
+3. Automatically create README.md tables when you commit (**node fs module**) [1st one](https://github.com/dylan-shao/Algorithms/blob/master/index.js), [2nd one](https://github.com/dylan-shao/ML-DS-Udacity_Data_Scientist_Nanodegree/blob/master/index.js)
 
 4. I am eating 3 meals a day :robot:
 
